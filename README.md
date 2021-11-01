@@ -1,2 +1,2 @@
 # Projekt-battlegame
-rpg-terminal battlegame som gjort under en kurs
+rpg-terminal battlegame made as a fun project
